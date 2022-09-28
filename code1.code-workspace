@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "S:/code/backend/ch-proyecto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code1"
+	}
+}
